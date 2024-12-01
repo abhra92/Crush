@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ask Her Out 🚀
 
 **Ask Her Out** is a fun, interactive, and playful web-based project designed to simulate a lighthearted "proposal" or playful interaction. It features engaging GIFs, quirky dialogues, and dynamic button interactions to create an entertaining user experience.
@@ -111,3 +112,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ### Have fun and keep coding! 💻✨
+=======
+      
+This site was built using       </br>       https://abhra92.github.io/crush/
+>>>>>>> 61fbf6889bc24597fc7a36bf7e6b19f6adc27263
