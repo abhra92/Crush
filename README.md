@@ -72,7 +72,7 @@ crush/
 
 ## Demo 💻
 
-You can try the live version of the project here: [Ask Her Out Live Demo](https://abhra92.github.io/crush/)
+You can try the live version of the project here: [Ask Her Out Live Demo](https://abhra92.github.io/Crush/)
 
 ---
 
